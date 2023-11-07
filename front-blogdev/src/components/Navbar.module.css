@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 .navbar {
-=======
-.navbar{
->>>>>>> 5b378e34046013913859f0e6765c13050a2988fc
     display: flex;
     box-shadow: rgba(0, 0, 0, .15) 0px -2px 10 0px;
     justify-content: space-between;
@@ -10,33 +6,20 @@
     padding: .5em 2em;
 }
 
-<<<<<<< HEAD
 .brand {
     font-size: 2.2em;
 }
 
 .brand span {
-=======
-.brand{
-    font-size: 1.2em;
-}
-
-.brand span{
->>>>>>> 5b378e34046013913859f0e6765c13050a2988fc
     font-weight: 900;
     text-transform: uppercase;
 }
 
-<<<<<<< HEAD
 .links_list {
-=======
-.links_list{
->>>>>>> 5b378e34046013913859f0e6765c13050a2988fc
     display: flex;
     list-style: none;
 }
 
-<<<<<<< HEAD
 .links_list li a {
     padding: .6em .8em;
     text-decoration: none;
@@ -49,13 +32,4 @@
     border-radius: 5px;
     background: rgb(167,5,215);
     background: linear-gradient(90deg, rgba(167,5,215,1) 0%, rgba(255,0,249,1) 55%, rgba(255,0,249,0.48783263305322133) 100%);
-=======
-.links_list li a{
-    padding: .4em .6em;
-}
-
-.active{
-    background-color: #000;
-    color: #fff;
->>>>>>> 5b378e34046013913859f0e6765c13050a2988fc
 }
